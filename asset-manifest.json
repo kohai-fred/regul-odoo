@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/regul-odoo/static/css/main.073c9b0a.css",
+    "main.js": "/regul-odoo/static/js/main.001e166f.js",
+    "static/js/787.e7bd2f2e.chunk.js": "/regul-odoo/static/js/787.e7bd2f2e.chunk.js",
+    "static/media/logo.svg": "/regul-odoo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/regul-odoo/index.html",
+    "main.073c9b0a.css.map": "/regul-odoo/static/css/main.073c9b0a.css.map",
+    "main.001e166f.js.map": "/regul-odoo/static/js/main.001e166f.js.map",
+    "787.e7bd2f2e.chunk.js.map": "/regul-odoo/static/js/787.e7bd2f2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.001e166f.js"
+  ]
+}
